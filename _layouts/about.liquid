@@ -40,6 +40,12 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Work Experiences -->
+      <h2>
+        Work Experiences
+      </h2>
+      {% include experiences.liquid limit=true %}
+
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>

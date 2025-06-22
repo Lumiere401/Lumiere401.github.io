@@ -2,19 +2,35 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  <p style="font-weight:bold; font-family:'Rubik', sans-serif; margin: 0.2em 0;">Ph.D. student</p>
+  <p style="font-weight:bold; font-family:'Rubik', sans-serif; margin: 0.2em 0;">University of Stuttgart, Germany</p>
+  <p style="font-weight:bold; font-family:'Rubik', sans-serif; ">Email: Xuening.Tian@visus.uni-stuttgart.de</p>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>01.434</p>
+    <p>Universitätsstraße 38</p>
+    <p>Stuttgart, Germany</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+experiences:
+  - role: "Research Assistant"
+    company: "University of Stuttgart, VISUS"
+    dates: "Mar 2025 – Present"
+    description: >
+      Developed tools for scientific visualization. Assisted in publications and academic projects.
+
+  - role: "Intern"
+    company: "Sony Europe"
+    dates: "Apr 2023 - Jul 2024"
+    description: >
+      Worked on real-time action recogition with multi-camera system and 3D reconstruction.
 
 announcements:
   enabled: true # includes a list of news items
@@ -22,13 +38,10 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I am a first-year Ph.D. student advised by Alexander von Humboldt Prof. Dieter Schmalstieg at University of Stuttgart, Germany. Before my Phd, I finished my master in Lund University, Sweden. My research interests include 3D Computer vision, especially how real and virtual objects can be interacted with human in VR/AR/MR.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently offering several master thesis in Generative AI and VR/AR. If you are interested deeply in scientific research and want to work with me. Please check more detail on:
