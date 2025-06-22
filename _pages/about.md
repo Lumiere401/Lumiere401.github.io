@@ -42,6 +42,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a first-year Ph.D. student advised by Alexander von Humboldt Prof. Dieter Schmalstieg at University of Stuttgart, Germany. Before my Phd, I finished my master in Lund University, Sweden. My research interests include 3D Computer vision, especially how real and virtual objects can be interacted with human in VR/AR/MR.
+I am a first-year Ph.D. student advised by Alexander von Humboldt Prof. Dieter Schmalstieg at University of Stuttgart, Germany. Before I started my Ph.D., I finished my master in Lund University, Sweden. My research interests include 3D Computer vision, especially how real and virtual objects can be interacted with human in VR/AR/MR.
 
-I am currently offering several master thesis in Generative AI and VR/AR. If you are interested deeply in scientific research and want to work with me. Please check more detail on:
+I am currently offering several master thesis in Generative AI and VR/AR. If you are interested deeply in scientific research and want to work with me. Please check [university page](https://www.visus.uni-stuttgart.de/en/team/Tian-00002/) for more information.
